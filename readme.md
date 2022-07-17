@@ -1,1 +1,1 @@
-A social media app.
+A social media app built using django.
